@@ -1,0 +1,221 @@
+baseURL = "https://tianqizhao.com"
+title = "Tianqi Zhao"
+
+paginate = 5.0
+theme = "PaperMod"
+enableInlineShortcodes = true
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+enableEmoji = true
+
+[minify]
+disableXML = true
+
+[languages]
+    [languages.en]
+        languageName = "English"
+        weight = 1.0
+
+    [languages.en.menu]
+        [[languages.en.menu.main]]
+            name = "About"
+            url = "about"
+            weight = 5.0
+
+        [[languages.en.menu.main]]
+            name = "Archive"
+            url = "archives"
+            weight = 10.0
+
+        [[languages.en.menu.main]]
+            name = "Search"
+            url = "search/"
+            weight = 20.0
+
+        [[languages.en.menu.main]]
+            name = "Tags"
+            url = "tags/"
+            weight = 10.0
+
+        [[languages.en.menu.main]]
+            name = "Categories"
+            url = "categories/"
+            weight = 10.0
+        
+        [[languages.en.menu.main]]
+            name = "Resume"
+            url = "resume.pdf"
+            weight = 15.0
+
+    # [languages.fr]
+    #     languageName = ":fr:"
+    #     languageAltTitle = "French"
+    #     weight = 2.0
+    #     title = "PaperModL2"
+
+    #     [languages.fr.profileMode]
+    #         enabled = true
+    #         title = "PaperMod"
+    #         subtitle = "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
+
+    #         [[languages.fr.profileMode.buttons]]
+    #             name = "Blog"
+    #             url = "posts"
+
+    #         [[languages.fr.profileMode.buttons]]
+    #             name = "Tags"
+    #             url = "tags"
+
+    #     [languages.fr.menu]
+
+    #         [[languages.fr.menu.main]]
+    #             name = "Archive"
+    #             url = "archives/"
+    #             weight = 5.0
+
+    #         [[languages.fr.menu.main]]
+    #             name = "Tags"
+    #             url = "tags"
+    #             weight = 10.0
+
+    #         [[languages.fr.menu.main]]
+    #             name = "Categories"
+    #             url = "categories"
+    #             weight = 10.0
+
+    #         [[languages.fr.menu.main]]
+    #             name = "Series"
+    #             url = "series"
+    #             weight = 10.0
+
+    #         [[languages.fr.menu.main]]
+    #             name = "NullLink"
+    #             url = "#"
+
+    #         [[languages.fr.menu.main]]
+    #             name = "NullLink2"
+    #             url = "#"
+
+    #         [[languages.fr.menu.main]]
+    #             name = "NullLink3"
+    #             url = "#"
+
+    # [languages.fa]
+    #     languagedirection = "rtl"
+    #     weight = 3.0
+    #     title = "PaperMod RTL"
+
+    #     [languages.fa.homeInfoParams]
+    #         Title = "Hi there 👋"
+    #         Content = "Welcome to RTL layout"
+
+    #     [languages.fa.menu]
+
+    #         [[languages.fa.menu.main]]
+    #             name = "Tags"
+    #             url = "tags"
+    #             weight = 10.0
+
+[outputs]
+    home = [
+        "HTML",
+        "RSS",
+        "JSON"
+    ]
+
+[params]
+    env = "production"
+    description = "Tianqi Zhao's personal website"
+    author = "Tianqi Zhao"
+    defaultTheme = "auto"
+    ShowShareButtons = true
+    ShowReadingTime = true
+    displayFullLangName = true
+    ShowPostNavLinks = true
+    ShowBreadCrumbs = true
+    ShowCodeCopyButtons = true
+    ShowToc = true
+    images = [
+        "papermod-cover.png"
+    ]
+
+    [params.profileMode]
+        enabled = true
+        title = "@tianqizhao-louis"
+        imageUrl = "img/profile.PNG"
+        imageTitle = "my portrait"
+
+    # [[params.profileMode.buttons]]
+    #     name = "Archives"
+    #     url = "archives"
+
+    # [[params.profileMode.buttons]]
+    #     name = "Tags"
+    #     url = "tags"
+
+    [params.homeInfoParams]
+        Title = "PaperMod"
+        Content = "Welcome to demo of hugo's theme PaperMod. - **PaperMod** is a simple but fast and responsive theme with useful feature-set that enhances UX. - Do give a 🌟 on Github ! - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper).\n"
+
+    # [params.editPost]
+    #     URL = "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
+    #     Text = "Suggest Changes"
+    #     appendFilePath = true
+
+    [[params.socialIcons]]
+        name = "github"
+        url = "https://github.com/tianqizhao-louis"
+
+    [[params.socialIcons]]
+        name = "linkedin"
+        url = "https://www.linkedin.com/in/ztianqi/"
+
+    [[params.socialIcons]]
+        name = "medium"
+        url = "https://tianqiz.medium.com"
+
+[taxonomies]
+    category = "categories"
+    tag = "tags"
+    series = "series"
+
+[markup]
+
+    [markup.goldmark]
+
+        [markup.goldmark.renderer]
+            unsafe = true
+
+[privacy]
+
+    [privacy.vimeo]
+        disabled = false
+        simple = true
+
+    [privacy.twitter]
+        disabled = false
+        enableDNT = true
+        simple = true
+
+    [privacy.instagram]
+        disabled = false
+        simple = true
+
+    [privacy.youtube]
+        disabled = false
+        privacyEnhanced = true
+
+[services]
+
+    [services.instagram]
+        disableInlineCSS = true
+
+    [services.twitter]
+        disableInlineCSS = true
+
+
+
+# https://github.com/adityatelange/hugo-PaperMod/wiki/Features#comments
+# https://gohugo.io/content-management/comments/
