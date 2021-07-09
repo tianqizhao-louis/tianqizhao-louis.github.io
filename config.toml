@@ -10,7 +10,7 @@ buildFuture = false
 buildExpired = false
 enableEmoji = true
 
-googleAnalytics: G-13YS1TTPR3
+googleAnalytics = "G-13YS1TTPR3"
 
 [minify]
 disableXML = true
