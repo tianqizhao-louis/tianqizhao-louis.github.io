@@ -38,13 +38,13 @@ Java, Python, Html 5, CSS, Javascript, C#, Node.js, React.js, MongoDB, MySQL
 
 ---
 
-- 🔭 I’m currently working on augmented reality and web development
-- 🌱 I’m currently [learning React](https://reactjs.org/)
-- 👯 I’m looking to collaborate on college management back-end system
-- 🤔 I’m looking for help with AWS, Azure, and iOS Development
-- 💬 Ask me about Node.js, MongoDB, and Firebase
+- 🔭 I’m currently doing researching on Named Entity Recognition in the Natural Language Processing field
+- 🌱 I’m currently learning Computational Neuroscience
+- 👯 I’m looking to collaborate on C++ projects
+- 🤔 I’m looking for help with C++, AWS, Azure, and Machine Learning
+- 💬 Ask me about Node.js, MongoDB, Python, Java, and Firebase
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: My favorite car is Tesla Model Y
+- ⚡ Fun fact: I'm currently reading *I Am A Cat* by Natsume Sōseki
 
 ***My Github Repo Stats***:
 
