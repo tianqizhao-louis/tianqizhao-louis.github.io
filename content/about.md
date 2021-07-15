@@ -11,7 +11,7 @@ My name is Tianqi Zhao :laughing:.
 
 I'm a junior student at Columbia University:lion:, majoring in *Computer Science*:man_technologist:. I'm also interested in *Social Anthropology* and *History*:blue_book:. In my spare time I enjoy playing Nintendo switch:joystick:, swimming:man_swimming:, and reading:books:.
 
-Right now, I'm working with Professor [Constantine Lignos](https://lignos.org) to research on *Using Reinforcement Learning to Improve Named Entity Recognition for Lower-Resourced Languages* in the field of Natural Language Processing. 
+Right now, I'm researching on *Using Reinforcement Learning to Improve Named Entity Recognition for Lower-Resourced Languages* in the Natural Language Processing field. 
 
 You can take a look at [my resume here](../resume.pdf).
 
@@ -25,9 +25,10 @@ You can take a look at [my resume here](../resume.pdf).
 
 ### Experience
 
-- **Data Science Intern**, *Clyde AI*, 2021/06 - present
-- **Undergraduate Research Fellow**, *Brandeis University*, 2020/12 - present
 - **Research Assistant at the Department of Computer Science**, *Brandeis University*, 2019/10 - present
+- **Teaching Assistant for Advanced Programming class**, *Brandeis University*, 2019/07 - present
+- **Data Science Intern**, *Clyde AI*, 2021/06 - 2021/07
+- **Undergraduate Research Fellow**, *Brandeis University*, 2020/12 - 2021/07
 - **Software Engineering Intern**, *elphi, Inc*, 2020/12 - 2021/01
 - **Project Leader**, *Brandeis University*, 2019/05 - 2020/12
 - **Software Engineering Intern**, *Fortune International Factoring Co., Ltd*, 2019/06 - 2019/08
