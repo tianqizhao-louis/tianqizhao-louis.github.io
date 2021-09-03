@@ -46,7 +46,7 @@ Java, Python, Html 5, CSS, Javascript, C#, Node.js, React.js, MongoDB, MySQL
 - 🤔 I’m looking for help with C++, AWS, Azure, and Machine Learning
 - 💬 Ask me about Node.js, MongoDB, Python, Java, and Firebase
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I'm currently reading *I Am A Cat* by Natsume Sōseki
+- 💥 Fun fact: I'm currently reading *I Am A Cat* by Natsume Sōseki
 
 ***My Github Repo Stats***:
 
