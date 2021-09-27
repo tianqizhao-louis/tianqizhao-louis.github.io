@@ -25,6 +25,7 @@ You can take a look at [my resume here](../resume.pdf).
 
 ### Experience
 
+- **Almaworks Fellow**, *Almaworks Accelerator*, 2021/09 - present
 - **Software Quality Assurance Tester**, *Twelve*, 2021/08 - present
 - **Research Assistant at the Department of Computer Science**, *Brandeis University*, 2019/10 - 2021/08
 - **Teaching Assistant for Advanced Programming class**, *Brandeis University*, 2019/07 - 2021/08
