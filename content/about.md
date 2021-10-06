@@ -25,6 +25,7 @@ You can take a look at [my resume here](../resume.pdf).
 
 ### Experience
 
+- **Fundraising and Investment Intern**, *Tooler*, 2021/10 - present
 - **Almaworks Fellow**, *Almaworks Accelerator*, 2021/09 - present
 - **Software Quality Assurance Tester**, *Twelve*, 2021/08 - present
 - **Research Assistant at the Department of Computer Science**, *Brandeis University*, 2019/10 - 2021/08
@@ -37,7 +38,7 @@ You can take a look at [my resume here](../resume.pdf).
 
 ### Skills
 
-Java, Python, Html 5, CSS, Javascript, C#, Node.js, React.js, MongoDB, MySQL
+Java, Python, Html 5, CSS, JavaScript, C, C#, Node.js, React.js, MongoDB, MySQL
 
 ---
 
