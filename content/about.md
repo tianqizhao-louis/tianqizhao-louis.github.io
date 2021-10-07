@@ -27,7 +27,7 @@ You can take a look at [my resume here](../resume.pdf).
 
 - **Fundraising and Investment Intern**, *Tooler*, 2021/10 - present
 - **Almaworks Fellow**, *Almaworks Accelerator*, 2021/09 - present
-- **Software Quality Assurance Tester**, *Twelve*, 2021/08 - present
+- **Software Quality Assurance Tester**, *Twelve*, 2021/08 - 2021/09
 - **Research Assistant at the Department of Computer Science**, *Brandeis University*, 2019/10 - 2021/08
 - **Teaching Assistant for Advanced Programming class**, *Brandeis University*, 2019/07 - 2021/08
 - **Data Science Intern**, *Clyde AI*, 2021/06 - 2021/07
