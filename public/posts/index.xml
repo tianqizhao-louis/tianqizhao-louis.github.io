@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tianqi Zhao</title>
-    <link>https://tianqizhao.com/</link>
-    <description>Recent content on Tianqi Zhao</description>
+    <title>Posts on Tianqi Zhao</title>
+    <link>https://tianqizhao.com/posts/</link>
+    <description>Recent content in Posts on Tianqi Zhao</description>
     <image>
       <url>https://tianqizhao.com/papermod-cover.png</url>
       <link>https://tianqizhao.com/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 02 Dec 2021 12:30:14 -0500</lastBuildDate><atom:link href="https://tianqizhao.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Dec 2021 12:30:14 -0500</lastBuildDate><atom:link href="https://tianqizhao.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to Go and Grab a Coffee while Keeping Your Vim Running on CLAC</title>
       <link>https://tianqizhao.com/posts/tmux/</link>
@@ -19,17 +19,6 @@
       <description>While taking the Advanced Programming class, the thing that bothers me the most is not that we need to program using Vim in CLAC, a remote server, but every time when I leave for a cup of coffee, my laptop sleeps, and CLAC connection is automatically closed, so I have to type clac, cd cs3157/labN/part1, vim xxx.c again and again, which is really annoying.
 Jae briefly mentioned a handy tool, called tmux, in listserv, and I found that is useful if you are a coffee person like me.</description>
     </item>
-    
-    <item>
-      <title>About Me</title>
-      <link>https://tianqizhao.com/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://tianqizhao.com/about/</guid>
-      <description>about</description>
-    </item>
-    
-    
     
   </channel>
 </rss>
