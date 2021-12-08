@@ -146,7 +146,7 @@ disableXML = true
     [params.profileMode]
         enabled = true
         title = "@tianqizhao-louis"
-        imageUrl = "img/profile.PNG"
+        imageUrl = "img/profile_pic.PNG"
         imageTitle = "my portrait"
 
     # [[params.profileMode.buttons]]
