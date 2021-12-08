@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Tianqi Zhao</title>
+    <link>https://tianqizhao.com/tags/</link>
+    <description>Recent content in Tags on Tianqi Zhao</description>
+    <image>
+      <url>https://tianqizhao.com/papermod-cover.png</url>
+      <link>https://tianqizhao.com/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 02 Dec 2021 12:30:14 -0500</lastBuildDate><atom:link href="https://tianqizhao.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Advanced Programming</title>
+      <link>https://tianqizhao.com/tags/advanced-programming/</link>
+      <pubDate>Thu, 02 Dec 2021 12:30:14 -0500</pubDate>
+      
+      <guid>https://tianqizhao.com/tags/advanced-programming/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
