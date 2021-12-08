@@ -8,16 +8,6 @@
       <url>https://tianqizhao.com/papermod-cover.png</url>
       <link>https://tianqizhao.com/papermod-cover.png</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 02 Dec 2021 12:30:14 -0500</lastBuildDate><atom:link href="https://tianqizhao.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Advanced Programming</title>
-      <link>https://tianqizhao.com/tags/advanced-programming/</link>
-      <pubDate>Thu, 02 Dec 2021 12:30:14 -0500</pubDate>
-      
-      <guid>https://tianqizhao.com/tags/advanced-programming/</guid>
-      <description></description>
-    </item>
-    
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://tianqizhao.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
