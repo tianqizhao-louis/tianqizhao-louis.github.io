@@ -11,8 +11,6 @@ My name is Tianqi Zhao :laughing:.
 
 I'm a junior student at Columbia University:lion:, majoring in *Computer Science*:man_technologist:. I'm also interested in *Social Anthropology* and *History*:blue_book:. In my spare time I enjoy playing Nintendo switch:joystick:, swimming:man_swimming:, and reading:books:.
 
-Right now, I'm researching on *Using Reinforcement Learning to Improve Named Entity Recognition for Lower-Resourced Languages* in the Natural Language Processing field. 
-
 You can take a look at [my resume here](../resume.pdf).
 
 ---
@@ -25,8 +23,8 @@ You can take a look at [my resume here](../resume.pdf).
 
 ### Experience
 
-- **Fundraising and Investment Intern**, *Tooler*, 2021/10 - present
-- **Almaworks Fellow**, *Almaworks Accelerator*, 2021/09 - present
+- **Fundraising and Investment Intern**, *Tooler*, 2021/10 - 2021/12
+- **Almaworks Fellow**, *Almaworks Accelerator*, 2021/09 - 2021/12
 - **Software Quality Assurance Tester**, *Twelve*, 2021/08 - 2021/09
 - **Research Assistant at the Department of Computer Science**, *Brandeis University*, 2019/10 - 2021/08
 - **Teaching Assistant for Advanced Programming class**, *Brandeis University*, 2019/07 - 2021/08
@@ -49,7 +47,3 @@ Java, Python, Html 5, CSS, JavaScript, C, C#, Node.js, React.js, MongoDB, MySQL
 - 💬 Ask me about Node.js, MongoDB, Python, Java, and Firebase
 - 😄 Pronouns: he/him/his
 - 💥 Fun fact: I'm currently reading *I Am A Cat* by Natsume Sōseki
-
-***My Github Repo Stats***:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tianqizhao-louis&theme=graywhite&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
