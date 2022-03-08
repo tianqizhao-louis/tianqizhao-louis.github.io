@@ -56,7 +56,7 @@ There isn't a lot of frontend work involved, so I will probably just go with fla
 
 I've created a Database Schema draft using Crow's Foot Notation.
 
-![Database Schema Draft](../../img/database-structure.png)
+![Database Schema Draft](../../img/db-design.png)
 
 In the graph, `PK` stands for Primary Key, and `FK` stands for Foreign Key.
 
