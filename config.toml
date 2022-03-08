@@ -27,7 +27,7 @@ disableXML = true
             weight = 5.0
 
         [[languages.en.menu.main]]
-            name = "Archive"
+            name = "Blog"
             url = "archives"
             weight = 10.0
 

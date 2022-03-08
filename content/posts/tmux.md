@@ -7,20 +7,20 @@ tags: ["Advanced Programming"]
 categories: ["Handy Tools"]
 author: Tianqi Zhao
 showToc: true
-TocOpen: false
+TocOpen: true
 ---
 
 While taking the Advanced Programming class, the thing that bothers me the most is not that we need to program using Vim in CLAC, a remote server, but every time when I leave for a cup of coffee, my laptop sleeps, and CLAC connection is automatically closed, so I have to type `clac`, `cd cs3157/labN/part1`, `vim xxx.c` again and again, which is really annoying.
 
 Jae briefly mentioned a handy tool, called `tmux`, in listserv, and I found that is useful if you are a coffee person like me.
 
-## What is `tmux`?
+# What is `tmux`?
 
 In short, tmux is a *terminal multiplexer* tool that allows you to run multiple terminal programs in the background. You can detach a session (let's say, `vim lab3.c`) when you want to leave, and re-attach it at any time. 
 
 There are so many things behind tmux that will are useful for development, but here I will just go through a very simple case: **how to keep your vim process running on CLAC and go and grab a coffee**.
 
-## Keep a Session Running in the Background
+# Keep a Session Running in the Background
 
 Now, logging in to CLAC by either typing `clac` (a shortcut that is introduced in listserv) or doing it in the normal way.
 
@@ -62,7 +62,7 @@ When you have submitted the lab and want to sleep, just type `exit` to exit the 
 
 > tmux will also be useful if you want to split your windows into two, one at the current lab and the other at the previous lab solutions.
 
-## Useful Links
+# Useful Links
 
 If you'd like to know more about tmux, here are two links that might be useful:
 
