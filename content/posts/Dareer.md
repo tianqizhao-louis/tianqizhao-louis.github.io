@@ -24,7 +24,7 @@ I thus initiate **CompSciCareer**, a project that will enhance the experience of
 
 ## Three Interfaces
 
-Dareer stands for "**Brandeis Career (info)**" contains three parts: 
+Dareer stands for "**Brandeis Career (info)**" and it contains three parts: 
 
 - a *backend MySQL database* that is efficient for organizing all the alumni data and scalable for new office assistants to step in and easily Create, Read, Update, and Delete data records if they have prior SQL or python knowledge (`pymysql` or `sqlalchemy`).
 - a *backend Web GUI* that has proper access control for office assistants to visually interact with the database (Create, Read, Update, and Delete). They don't need any programming knowledge when using the Web GUI. It also allows the department staff and faculty members to view the data and perform any high-level operations.
