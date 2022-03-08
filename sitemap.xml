@@ -2,25 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tianqizhao.com/tags/advanced-programming/</loc>
-    <lastmod>2021-12-02T12:30:14-05:00</lastmod>
-  </url><url>
     <loc>https://tianqizhao.com/categories/</loc>
+    <lastmod>2022-03-08T01:21:05-05:00</lastmod>
+  </url><url>
+    <loc>https://tianqizhao.com/tags/dareer/</loc>
+    <lastmod>2022-03-08T01:21:05-05:00</lastmod>
+  </url><url>
+    <loc>https://tianqizhao.com/posts/dareer/</loc>
+    <lastmod>2022-03-08T01:21:05-05:00</lastmod>
+  </url><url>
+    <loc>https://tianqizhao.com/posts/</loc>
+    <lastmod>2022-03-08T01:21:05-05:00</lastmod>
+  </url><url>
+    <loc>https://tianqizhao.com/categories/projects/</loc>
+    <lastmod>2022-03-08T01:21:05-05:00</lastmod>
+  </url><url>
+    <loc>https://tianqizhao.com/tags/</loc>
+    <lastmod>2022-03-08T01:21:05-05:00</lastmod>
+  </url><url>
+    <loc>https://tianqizhao.com/</loc>
+    <lastmod>2022-03-08T01:21:05-05:00</lastmod>
+  </url><url>
+    <loc>https://tianqizhao.com/tags/advanced-programming/</loc>
     <lastmod>2021-12-02T12:30:14-05:00</lastmod>
   </url><url>
     <loc>https://tianqizhao.com/categories/handy-tools/</loc>
     <lastmod>2021-12-02T12:30:14-05:00</lastmod>
   </url><url>
     <loc>https://tianqizhao.com/posts/tmux/</loc>
-    <lastmod>2021-12-02T12:30:14-05:00</lastmod>
-  </url><url>
-    <loc>https://tianqizhao.com/posts/</loc>
-    <lastmod>2021-12-02T12:30:14-05:00</lastmod>
-  </url><url>
-    <loc>https://tianqizhao.com/tags/</loc>
-    <lastmod>2021-12-02T12:30:14-05:00</lastmod>
-  </url><url>
-    <loc>https://tianqizhao.com/</loc>
     <lastmod>2021-12-02T12:30:14-05:00</lastmod>
   </url><url>
     <loc>https://tianqizhao.com/about/</loc>
