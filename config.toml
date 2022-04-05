@@ -185,10 +185,15 @@ disableXML = true
 
 [markup]
 
-    [markup.goldmark]
+    # [markup.goldmark]
 
-        [markup.goldmark.renderer]
-            unsafe = true
+        # [markup.goldmark.renderer]
+            # unsafe = true
+    [markup.highlight]
+        codeFences = true
+        guessSyntax = true
+        lineNos = true
+        style = "monokai"
 
 [privacy]
 

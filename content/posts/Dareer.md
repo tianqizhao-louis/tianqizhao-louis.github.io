@@ -18,7 +18,7 @@ We had a large team and without a clear documentation, different people had diff
 
 Because I'm taking Introduction to Database and User Interface Design this semester, I think I can probably advance this whole process into a new stage.
 
-I thus initiate **CompSciCareer**, a project that will enhance the experience of data collection, data cleaning, and data visualization not only for office assistants, but also for the department, faculty members, and the entire Brandeis CS Community.
+I thus initiate **Dareer**, a project that will enhance the experience of data collection, data cleaning, and data visualization not only for office assistants, but also for the department, faculty members, and the entire Brandeis CS Community.
 
 # What is Dareer
 
