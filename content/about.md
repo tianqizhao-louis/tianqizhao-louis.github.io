@@ -23,6 +23,7 @@ You can take a look at [my resume here](../resume.pdf).
 
 ### Experience
 
+- **Software Engineering Intern**, *echo3D*, 2022/05 - now
 - **Fundraising and Investment Intern**, *Tooler*, 2021/10 - 2021/12
 - **Almaworks Fellow**, *Almaworks Accelerator*, 2021/09 - 2021/12
 - **Software Quality Assurance Tester**, *Twelve*, 2021/08 - 2021/09
@@ -40,10 +41,10 @@ Java, Python, Html 5, CSS, JavaScript, C, C#, Node.js, React.js, MongoDB, MySQL
 
 ---
 
-- 🔭 I’m currently doing researching on Named Entity Recognition in the Natural Language Processing field
-- 🌱 I’m currently learning Computational Neuroscience
-- 👯 I’m looking to collaborate on C++ projects
-- 🤔 I’m looking for help with C++, AWS, Azure, and Machine Learning
-- 💬 Ask me about Node.js, MongoDB, Python, Java, and Firebase
+- 🔭 I’m currently developing a Full-Stack website using Flask
+- 🌱 I’m currently learning Programming Language & Translators
+- 👯 I’m looking to collaborate on Python projects
+- 🤔 I’m looking for help with Rust, React.js, and AWS
+- 💬 Ask me about Python Flask, Java, MySQL, and MongoDB 
 - 😄 Pronouns: he/him/his
 - 💥 Fun fact: I'm currently reading *I Am A Cat* by Natsume Sōseki
