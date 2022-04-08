@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Projects on Tianqi Zhao</title>
-    <link>https://tianqizhao.com/categories/projects/</link>
-    <description>Recent content in Projects on Tianqi Zhao</description>
+    <title>Brandeis Career on Tianqi Zhao</title>
+    <link>https://tianqizhao.com/tags/brandeis-career/</link>
+    <description>Recent content in Brandeis Career on Tianqi Zhao</description>
     <image>
       <url>https://tianqizhao.com/papermod-cover.png</url>
       <link>https://tianqizhao.com/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 08 Mar 2022 01:21:05 -0500</lastBuildDate><atom:link href="https://tianqizhao.com/categories/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Mar 2022 01:21:05 -0500</lastBuildDate><atom:link href="https://tianqizhao.com/tags/brandeis-career/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Brandeis Career: Brandeis Alumni&#39;s Career Path Database</title>
       <link>https://tianqizhao.com/posts/brandeis-career/</link>
