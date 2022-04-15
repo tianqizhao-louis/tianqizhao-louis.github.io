@@ -132,6 +132,7 @@ disableXML = true
     description = "Tianqi Zhao's personal website"
     author = "Tianqi Zhao"
     defaultTheme = "auto"
+    disableThemeToggle = true
     ShowShareButtons = true
     ShowReadingTime = true
     displayFullLangName = true

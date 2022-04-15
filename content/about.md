@@ -7,7 +7,7 @@ author: ["Tianqi Zhao"]
 
 ## Aloha! :wave:
 
-My name is Tianqi Zhao :laughing:.
+My name is Tianqi Zhao :laughing:, and my English name is Louis.
 
 I'm a junior student at Columbia University:lion:, majoring in *Computer Science*:man_technologist:. I'm also interested in *Social Anthropology* and *History*:blue_book:. In my spare time I enjoy playing Nintendo switch:joystick:, swimming:man_swimming:, and reading:books:.
 
@@ -29,7 +29,6 @@ You can take a look at [my resume here](../resume.pdf).
 - **Software Quality Assurance Tester**, *Twelve*, 2021/08 - 2021/09
 - **Research Assistant at the Department of Computer Science**, *Brandeis University*, 2019/10 - 2021/08
 - **Teaching Assistant for Advanced Programming class**, *Brandeis University*, 2019/07 - 2021/08
-- **Data Science Intern**, *Clyde AI*, 2021/06 - 2021/07
 - **Undergraduate Research Fellow**, *Brandeis University*, 2020/12 - 2021/07
 - **Software Engineering Intern**, *elphi, Inc*, 2020/12 - 2021/01
 - **Project Leader**, *Brandeis University*, 2019/05 - 2020/12
@@ -37,7 +36,7 @@ You can take a look at [my resume here](../resume.pdf).
 
 ### Skills
 
-Java, Python, Html 5, CSS, JavaScript, C, C#, Node.js, React.js, MongoDB, MySQL
+Java, Python, C, Html 5, CSS, JavaScript, Node.js, React.js, Express.js, MongoDB, MySQL, SQLite, OCaml, Assembly
 
 ---
 
