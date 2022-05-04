@@ -23,6 +23,7 @@ You can take a look at [my resume here](../resume.pdf).
 
 ### Experience
 
+- **Software Engineering Intern**, *Changing Room*, 2022/05 - now
 - **Software Engineering Intern**, *echo3D*, 2022/05 - now
 - **Fundraising and Investment Intern**, *Tooler*, 2021/10 - 2021/12
 - **Almaworks Fellow**, *Almaworks Accelerator*, 2021/09 - 2021/12
