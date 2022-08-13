@@ -2,12 +2,12 @@
 title: "About Me" 
 summary: "about"
 ShowToc: false
-author: ["Tianqi Zhao"]
+author: ["Tianqi (Louis) Zhao"]
 ---
 
 ## Aloha! :wave:
 
-My name is Tianqi Zhao :laughing:, and my English name is Louis.
+My name is Tianqi Zhao :laughing:, and I go by Louis.
 
 I'm a junior student at Columbia University:lion:, majoring in *Computer Science*:man_technologist:. I'm also interested in *Social Anthropology* and *History*:blue_book:. In my spare time I enjoy playing Nintendo switch:joystick:, swimming:man_swimming:, and reading:books:.
 
@@ -23,8 +23,8 @@ You can take a look at [my resume here](../resume.pdf).
 
 ### Experience
 
-- **Software Engineering Intern**, *Changing Room*, 2022/05 - now
-- **Software Engineering Intern**, *echo3D*, 2022/05 - now
+- **Software Engineering Intern**, *echo3D*, 2022/05 - 2022/08
+- **Software Engineering Intern**, *Changing Room*, 2022/05 - 2022/08
 - **Fundraising and Investment Intern**, *Tooler*, 2021/10 - 2021/12
 - **Almaworks Fellow**, *Almaworks Accelerator*, 2021/09 - 2021/12
 - **Software Quality Assurance Tester**, *Twelve*, 2021/08 - 2021/09
@@ -37,7 +37,7 @@ You can take a look at [my resume here](../resume.pdf).
 
 ### Skills
 
-Java, Python, C, Html 5, CSS, JavaScript, Node.js, React.js, Express.js, MongoDB, MySQL, SQLite, OCaml, Assembly
+Python, Java, C, Html 5, CSS, JavaScript, Node.js, React.js, Express.js, MongoDB, MySQL, SQLite, OCaml, Assembly
 
 ---
 

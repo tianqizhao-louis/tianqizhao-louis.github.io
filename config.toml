@@ -1,5 +1,5 @@
 baseURL = "https://tianqizhao.com"
-title = "Tianqi Zhao"
+title = "Tianqi (Louis) Zhao"
 
 paginate = 5.0
 theme = "PaperMod"
@@ -129,8 +129,8 @@ disableXML = true
 
 [params]
     env = "production"
-    description = "Tianqi Zhao's personal website"
-    author = "Tianqi Zhao"
+    description = "All about Tianqi (Louis) Zhao"
+    author = "Tianqi (Louis) Zhao"
     defaultTheme = "auto"
     disableThemeToggle = true
     ShowShareButtons = true

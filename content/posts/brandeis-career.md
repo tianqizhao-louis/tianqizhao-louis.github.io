@@ -5,7 +5,7 @@ draft: false
 
 tags: ["Brandeis Career"]
 categories: ["Projects"]
-author: Tianqi Zhao
+author: Tianqi (Louis) Zhao
 showToc: true
 TocOpen: true
 ---
