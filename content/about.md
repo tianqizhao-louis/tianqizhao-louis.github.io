@@ -33,7 +33,6 @@ You can take a look at [my resume here](../resume.pdf).
 - **Undergraduate Research Fellow**, *Brandeis University*, 2020/12 - 2021/07
 - **Software Engineering Intern**, *elphi, Inc*, 2020/12 - 2021/01
 - **Project Leader**, *Brandeis University*, 2019/05 - 2020/12
-- **Software Engineering Intern**, *Fortune International Factoring Co., Ltd*, 2019/06 - 2019/08
 
 ### Skills
 
