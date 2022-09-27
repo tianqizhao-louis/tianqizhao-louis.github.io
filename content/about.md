@@ -9,7 +9,7 @@ author: ["Tianqi (Louis) Zhao"]
 
 My name is Tianqi Zhao :laughing:, and I go by Louis.
 
-I'm a junior student at Columbia University:lion:, majoring in *Computer Science*:man_technologist:. I'm also interested in *Social Anthropology* and *History*:blue_book:. In my spare time I enjoy playing Nintendo switch:joystick:, swimming:man_swimming:, and reading:books:.
+I'm a senior student at Columbia University:lion:, majoring in *Computer Science*:man_technologist:. I'm also interested in *Social Anthropology* and *History*:blue_book:. In my spare time I enjoy playing Nintendo switch:joystick:, swimming:man_swimming:, and reading:books:.
 
 You can take a look at [my resume here](../resume.pdf).
 
