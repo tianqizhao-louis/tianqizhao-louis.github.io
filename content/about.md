@@ -37,6 +37,7 @@ You can take a look at [my resume here](../resume.pdf).
 ### Skills
 
 **Proficient**: Python, Java, HTML/CSS/Javascript 
+
 **Prior Experience**: Ruby on Rails, C, OCaml, SQL, MongoDB, Neo4j
 
 ---
