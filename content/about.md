@@ -36,7 +36,8 @@ You can take a look at [my resume here](../resume.pdf).
 
 ### Skills
 
-Python, Java, C, Html 5, CSS, JavaScript, Node.js, React.js, Express.js, MongoDB, MySQL, SQLite, OCaml, Assembly
+**Proficient**: Python, Java, HTML/CSS/Javascript 
+**Prior Experience**: Ruby on Rails, C, OCaml, SQL, MongoDB, Neo4j
 
 ---
 
