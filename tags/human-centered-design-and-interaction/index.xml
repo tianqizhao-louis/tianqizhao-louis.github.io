@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Projects on Tianqi (Louis) Zhao</title>
-    <link>https://tianqizhao.com/categories/projects/</link>
-    <description>Recent content in Projects on Tianqi (Louis) Zhao</description>
+    <title>Human Centered Design and Interaction on Tianqi (Louis) Zhao</title>
+    <link>https://tianqizhao.com/tags/human-centered-design-and-interaction/</link>
+    <description>Recent content in Human Centered Design and Interaction on Tianqi (Louis) Zhao</description>
     <image>
       <url>https://tianqizhao.com/papermod-cover.png</url>
       <link>https://tianqizhao.com/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 09 Dec 2022 01:27:57 -0500</lastBuildDate><atom:link href="https://tianqizhao.com/categories/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Dec 2022 01:27:57 -0500</lastBuildDate><atom:link href="https://tianqizhao.com/tags/human-centered-design-and-interaction/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CADO: An Online Daycare Platform Designed for Kids</title>
       <link>https://tianqizhao.com/posts/cado/</link>
@@ -18,16 +18,6 @@
       <guid>https://tianqizhao.com/posts/cado/</guid>
       <description>Story Working from home as a mother can feel like paradise. But, you have back-to-back meetings, an upcoming product release, and presentations to upper management with your children crying and running around. How do you concentrate?
 CADO aims to provide an online daycare to keep your children busy and distracted on our cloud meeting platform designed for kids. You won’t need to worry about balancing work and your children’s education because through interactive activities, we teach them life skills, language courses, and simple math - you choose it!</description>
-    </item>
-    
-    <item>
-      <title>Brandeis Career: Brandeis Alumni&#39;s Career Path Database</title>
-      <link>https://tianqizhao.com/posts/brandeis-career/</link>
-      <pubDate>Tue, 08 Mar 2022 01:21:05 -0500</pubDate>
-      
-      <guid>https://tianqizhao.com/posts/brandeis-career/</guid>
-      <description>Why Brandeis Career While I was working as an office assistant at Brandeis University, I was assigned to collect, clean, and visualize all CS alumni&amp;rsquo;s data, including their majors and their job history (companies and the corresponding employment duration). We spent six months just on collecting all the data and put it into a large Google Sheet file, and then we spent an entire semester on cleaning it.
-We had a large team and without a clear documentation, different people had different habit of recording the data.</description>
     </item>
     
   </channel>
