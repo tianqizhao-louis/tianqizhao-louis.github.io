@@ -150,17 +150,17 @@ disableXML = true
         imageUrl = "img/3.PNG"
         imageTitle = "my portrait"
 
-    # [[params.profileMode.buttons]]
-    #     name = "Archives"
-    #     url = "archives"
+    [[params.profileMode.buttons]]
+        name = "Read My Blog Posts"
+        url = "archives"
 
     # [[params.profileMode.buttons]]
     #     name = "Tags"
     #     url = "tags"
 
     [params.homeInfoParams]
-        Title = "PaperMod"
-        Content = "Welcome to demo of hugo's theme PaperMod. - **PaperMod** is a simple but fast and responsive theme with useful feature-set that enhances UX. - Do give a 🌟 on Github ! - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper).\n"
+        Title = "Hi, I'm Louis Zhao"
+        Content = "I'm a senior student majoring in Computer Science at Columbia University. I love developing websites from frontend to backend."
 
     # [params.editPost]
     #     URL = "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
