@@ -173,7 +173,7 @@ disableXML = true
 
     [[params.socialIcons]]
         name = "linkedin"
-        url = "https://www.linkedin.com/in/zhaolouis/"
+        url = "https://www.linkedin.com/in/louistz/"
 
     [[params.socialIcons]]
         name = "medium"
