@@ -1,5 +1,5 @@
 baseURL = "https://tianqizhao.com"
-title = "Tianqi (Louis) Zhao"
+title = "Louis Zhao"
 
 paginate = 5.0
 theme = "PaperMod"
@@ -129,8 +129,8 @@ disableXML = true
 
 [params]
     env = "production"
-    description = "All about Tianqi (Louis) Zhao"
-    author = "Tianqi (Louis) Zhao"
+    description = "Louis Zhao's portfolio"
+    author = "Louis Zhao"
     defaultTheme = "auto"
     disableThemeToggle = true
     ShowShareButtons = true
@@ -146,12 +146,12 @@ disableXML = true
 
     [params.profileMode]
         enabled = true
-        title = "@tianqizhao-louis"
-        imageUrl = "img/3.PNG"
+        title = "Louis Tianqi Zhao"
+        imageUrl = "img/grad.JPG"
         imageTitle = "my portrait"
 
     [[params.profileMode.buttons]]
-        name = "Read My Blog Posts"
+        name = "Blog Posts"
         url = "archives"
 
     # [[params.profileMode.buttons]]
@@ -175,9 +175,9 @@ disableXML = true
         name = "linkedin"
         url = "https://www.linkedin.com/in/louistz/"
 
-    [[params.socialIcons]]
-        name = "medium"
-        url = "https://tianqiz.medium.com"
+    # [[params.socialIcons]]
+    #     name = "medium"
+    #     url = "https://tianqiz.medium.com"
 
 [taxonomies]
     category = "categories"
