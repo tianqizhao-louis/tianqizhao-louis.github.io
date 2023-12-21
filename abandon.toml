@@ -145,8 +145,9 @@ disableXML = true
     ]
 
     [params.profileMode]
-        enabled = true
+        enabled = false
         title = "Louis Tianqi Zhao"
+        subtitle = "Senior at Columbia University majoring in Computer Science"
         imageUrl = "img/grad.JPG"
         imageTitle = "my portrait"
 
@@ -160,7 +161,10 @@ disableXML = true
 
     [params.homeInfoParams]
         Title = "Hi, I'm Louis Zhao"
-        Content = "I'm a senior student majoring in Computer Science at Columbia University. I love developing websites from frontend to backend."
+        Content = """
+    Roses are redRoses are redRoses are redRoses are redRoses are redRoses are redRoses are redRoses are red
+    Violets are blue
+    """
 
     # [params.editPost]
     #     URL = "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"

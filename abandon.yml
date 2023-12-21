@@ -1,0 +1,119 @@
+baseURL: "https://tianqizhao.com"
+title: "Louis Zhao"
+
+paginate: 5
+theme: "PaperMod"
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+
+googleAnalytics: "G-13YS1TTPR3"
+
+minify:
+  disableXML: true
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    menu:
+      main:
+        - name: "About"
+          url: "about"
+          weight: 5
+        - name: "Blog"
+          url: "archives"
+          weight: 10
+        - name: "Search"
+          url: "search/"
+          weight: 20
+        - name: "Tags"
+          url: "tags/"
+          weight: 10
+        - name: "Categories"
+          url: "categories/"
+          weight: 10
+        - name: "Resume"
+          url: "resume.pdf"
+          weight: 15
+
+outputs:
+  home:
+    - "HTML"
+    - "RSS"
+    - "JSON"
+
+params:
+  env: "production"
+  description: "Louis Zhao's portfolio"
+  author: "Louis Zhao"
+  defaultTheme: "auto"
+  disableThemeToggle: true
+  ShowShareButtons: true
+  ShowReadingTime: true
+  displayFullLangName: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowToc: true
+  images:
+    - "papermod-cover.png"
+  profileMode:
+    enabled: false
+    title: "Louis Tianqi Zhao"
+    subtitle: "Senior at Columbia University majoring in Computer Science"
+    imageUrl: "img/grad.JPG"
+    imageTitle: "my portrait"
+    buttons:
+      - name: "Blog Posts"
+        url: "archives"
+  homeInfoParams:
+    Title: "Hi, I'm Louis Zhao"
+    Content: >
+      👋 Hi
+
+      - test
+
+      - test2
+      
+  socialIcons:
+    - name: "github"
+      url: "https://github.com/tianqizhao-louis"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/louistz/"
+
+taxonomies:
+  category: "categories"
+  tag: "tags"
+  series: "series"
+
+markup:
+  highlight:
+    codeFences: true
+    guessSyntax: true
+    lineNos: true
+    style: "monokai"
+
+privacy:
+  vimeo:
+    disabled: false
+    simple: true
+  twitter:
+    disabled: false
+    enableDNT: true
+    simple: true
+  instagram:
+    disabled: false
+    simple: true
+  youtube:
+    disabled: false
+    privacyEnhanced: true
+
+services:
+  instagram:
+    disableInlineCSS: true
+  twitter:
+    disableInlineCSS: true

@@ -1,6 +1,7 @@
 ---
 title: "CADO: An Online Daycare Platform Designed for Kids"
 date: 2022-12-09T01:27:57-05:00
+description: CADO
 draft: false
 
 tags: ["Human Centered Design and Interaction", "Design"]
