@@ -245,7 +245,7 @@ params:
           name: "Columbia University in the City of New York"
           url: "https://www.columbia.edu/"
         date: "2021 - 2023"
-        GPA: "3.74 out of 5.0"
+        GPA: "3.74 out of 4.0"
         content: |-
           Relevant Coursework: Artificial Intelligence, Computer Vision, Natural Language Processing, Databases, User Interface Design, Human-Centered Design and Innovation, and Web App Development
       - title: "Bachelor of Arts in Computer Science"
