@@ -1,26 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Ruby on Rails on Louis Zhao</title>
-    <link>https://tianqizhao.com/tags/ruby-on-rails/</link>
-    <description>Recent content in Ruby on Rails on Louis Zhao</description>
-    <image>
-      <title>Louis Zhao</title>
-      <url>https://tianqizhao.com/papermod-cover.png</url>
-      <link>https://tianqizhao.com/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Tue, 27 Dec 2022 16:42:10 -0500</lastBuildDate><atom:link href="https://tianqizhao.com/tags/ruby-on-rails/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Paws and Tails Built in Ruby on Rails</title>
-      <link>https://tianqizhao.com/posts/paws-and-tails-rails/</link>
-      <pubDate>Tue, 27 Dec 2022 16:42:10 -0500</pubDate>
-      
-      <guid>https://tianqizhao.com/posts/paws-and-tails-rails/</guid>
-      <description>Story As a pet lover, I&amp;rsquo;ve been wanting a Ragdoll for so long. During my search for a cat, I figured out that although there are plenty of websites connecting shelters with petfinders, there isn&amp;rsquo;t a single successful platform connecting breeders with petlovers.
-Right now, if you want to find a breeder, you have to go online and search for &amp;ldquo;best Ragdoll breeders in New York City&amp;rdquo;. This will lead you to watch tons of bad-designed websites, send countless emails, do many interviews, pay deposit fees, and finally - you have to wait for six months for the litter.</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ruby on Rails on Louis Zhao's Portfolio</title><link>https://tianqizhao.com/tags/ruby-on-rails/</link><description>Recent content in Ruby on Rails on Louis Zhao's Portfolio</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 27 Dec 2022 16:42:10 -0500</lastBuildDate><atom:link href="https://tianqizhao.com/tags/ruby-on-rails/index.xml" rel="self" type="application/rss+xml"/><item><title>Paws and Tails Built in Ruby on Rails</title><link>https://tianqizhao.com/posts/paws-and-tails-rails/</link><pubDate>Tue, 27 Dec 2022 16:42:10 -0500</pubDate><guid>https://tianqizhao.com/posts/paws-and-tails-rails/</guid><description>Story As a pet lover, I&amp;rsquo;ve been wanting a Ragdoll for so long. During my search for a cat, I figured out that although there are plenty of websites connecting shelters with petfinders, there isn&amp;rsquo;t a single successful platform connecting breeders with petlovers.
+Right now, if you want to find a breeder, you have to go online and search for &amp;ldquo;best Ragdoll breeders in New York City&amp;rdquo;. This will lead you to watch tons of bad-designed websites, send countless emails, do many interviews, pay deposit fees, and finally - you have to wait for six months for the litter.</description></item></channel></rss>

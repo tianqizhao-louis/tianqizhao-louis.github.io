@@ -1,27 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>AI on Louis Zhao</title>
-    <link>https://tianqizhao.com/tags/ai/</link>
-    <description>Recent content in AI on Louis Zhao</description>
-    <image>
-      <title>Louis Zhao</title>
-      <url>https://tianqizhao.com/papermod-cover.png</url>
-      <link>https://tianqizhao.com/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Tue, 27 Dec 2022 20:13:14 -0500</lastBuildDate><atom:link href="https://tianqizhao.com/tags/ai/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Interactive Encyclopedia Using GPT-3</title>
-      <link>https://tianqizhao.com/posts/interactive-encyclopedia/</link>
-      <pubDate>Tue, 27 Dec 2022 20:13:14 -0500</pubDate>
-      
-      <guid>https://tianqizhao.com/posts/interactive-encyclopedia/</guid>
-      <description>Customer Analysis Who would use it? Young children from elementary school
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>AI on Louis Zhao's Portfolio</title><link>https://tianqizhao.com/tags/ai/</link><description>Recent content in AI on Louis Zhao's Portfolio</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 27 Dec 2022 20:13:14 -0500</lastBuildDate><atom:link href="https://tianqizhao.com/tags/ai/index.xml" rel="self" type="application/rss+xml"/><item><title>Interactive Encyclopedia Using GPT-3</title><link>https://tianqizhao.com/posts/interactive-encyclopedia/</link><pubDate>Tue, 27 Dec 2022 20:13:14 -0500</pubDate><guid>https://tianqizhao.com/posts/interactive-encyclopedia/</guid><description>Customer Analysis Who would use it? Young children from elementary school
 What essential need does it address? Young children are always curious about everything new in life and always ask a chain of questions. Parents/teachers might not be able to answer every question as soon as they come up.
-What is the essential solution to address that need? When kids enter question, the &amp;ldquo;encyclopedia&amp;rdquo; can find answer and reply interactively.</description>
-    </item>
-    
-  </channel>
-</rss>
+What is the essential solution to address that need? When kids enter question, the &amp;ldquo;encyclopedia&amp;rdquo; can find answer and reply interactively.</description></item></channel></rss>

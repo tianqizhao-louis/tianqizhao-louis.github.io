@@ -1,26 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Brandeis Career on Louis Zhao</title>
-    <link>https://tianqizhao.com/tags/brandeis-career/</link>
-    <description>Recent content in Brandeis Career on Louis Zhao</description>
-    <image>
-      <title>Louis Zhao</title>
-      <url>https://tianqizhao.com/papermod-cover.png</url>
-      <link>https://tianqizhao.com/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Tue, 08 Mar 2022 01:21:05 -0500</lastBuildDate><atom:link href="https://tianqizhao.com/tags/brandeis-career/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Brandeis Career: Brandeis Alumni&#39;s Career Path Database</title>
-      <link>https://tianqizhao.com/posts/brandeis-career/</link>
-      <pubDate>Tue, 08 Mar 2022 01:21:05 -0500</pubDate>
-      
-      <guid>https://tianqizhao.com/posts/brandeis-career/</guid>
-      <description>Why Brandeis Career While I was working as an office assistant at Brandeis University, I was assigned to collect, clean, and visualize all CS alumni&amp;rsquo;s data, including their majors and their job history (companies and the corresponding employment duration). We spent six months just on collecting all the data and put it into a large Google Sheet file, and then we spent an entire semester on cleaning it.
-We had a large team and without a clear documentation, different people had different habit of recording the data.</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Brandeis Career on Louis Zhao's Portfolio</title><link>https://tianqizhao.com/tags/brandeis-career/</link><description>Recent content in Brandeis Career on Louis Zhao's Portfolio</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 08 Mar 2022 01:21:05 -0500</lastBuildDate><atom:link href="https://tianqizhao.com/tags/brandeis-career/index.xml" rel="self" type="application/rss+xml"/><item><title>Brandeis Career: Brandeis Alumni's Career Path Database</title><link>https://tianqizhao.com/posts/brandeis-career/</link><pubDate>Tue, 08 Mar 2022 01:21:05 -0500</pubDate><guid>https://tianqizhao.com/posts/brandeis-career/</guid><description>Why Brandeis Career While I was working as an office assistant at Brandeis University, I was assigned to collect, clean, and visualize all CS alumni&amp;rsquo;s data, including their majors and their job history (companies and the corresponding employment duration). We spent six months just on collecting all the data and put it into a large Google Sheet file, and then we spent an entire semester on cleaning it.
+We had a large team and without a clear documentation, different people had different habit of recording the data.</description></item></channel></rss>
